@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SalesWebMVC.Pages
+namespace SalesWebMVC.Pages.Home
 {
     public class PrivacyModel : PageModel
     {
